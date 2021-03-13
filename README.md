@@ -48,4 +48,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 ![](https://i.imgur.com/hdYM4VX.gif)
+![](https://i.imgur.com/iEBluiL.gif)
+
 
